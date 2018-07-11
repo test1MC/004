@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="es" xml:lang="es" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" SourceControlDatabaseRoot="C:\Users\randonie\Documents\My Translated Projects\!qa-47.liprjf" SourceControlDatabase="C:\Users\randonie\Documents\My Translated Projects\!qa-47.liprjf\.git" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="391db268-2a75-4e53-bba6-2dc48c0f68ed">
+    <ProjectFile Source="Target/Tomato.docx" Target="Target/Tomato.docx" />
+</LingoProject>
